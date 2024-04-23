@@ -1,0 +1,12 @@
+legend{
+    text-align: center;
+}
+
+.d1tag{
+    display: flex;
+    color: black;
+    font-family: 'Franklin Gothic Medium';
+    justify-content: center;
+    height: 100vh;
+    border: 2px solid black;
+    }
